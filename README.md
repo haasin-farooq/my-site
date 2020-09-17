@@ -1,2 +1,2 @@
-# my-site
+# CSS Practice
 My personal website.
